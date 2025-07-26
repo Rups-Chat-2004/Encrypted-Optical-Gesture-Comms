@@ -14,7 +14,7 @@ Hand gestures are captured using a webcam, converted to encrypted military comma
 -  Recognize gestures and map them to predefined commands.
 -  Encrypt commands with AES-256 encryption.
 -  Transmit data over a simulated FSO link using intensity modulation.
--  Demodulate and decrypt received data to retrieve original commands.
+-  Demodulate and decrypt received data to retrieve original commands..
 
 ##  Technologies Used
 
